@@ -1,0 +1,2 @@
+- Transformar lista de todos em um estado da página
+- Adicionar todo do input na lista de todos
